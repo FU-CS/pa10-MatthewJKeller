@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pa10.GraphTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-12-04T19:24:18" hostname="LAPTOP-DI0PVVNV" time="0.11">
+  <properties/>
+  <testcase name="testSimpleCycle()" classname="pa10.GraphTest" time="0.054"/>
+  <testcase name="testEmptyGraph()" classname="pa10.GraphTest" time="0.003"/>
+  <testcase name="testGraphWithMultipleEdges()" classname="pa10.GraphTest" time="0.016"/>
+  <testcase name="testKahnAlgorithm()" classname="pa10.GraphTest" time="0.002"/>
+  <testcase name="testKahnAlgorithmWithCycle()" classname="pa10.GraphTest" time="0.002"/>
+  <testcase name="testDisconnectedGraph()" classname="pa10.GraphTest" time="0.002"/>
+  <testcase name="testSingleNodeGraph()" classname="pa10.GraphTest" time="0.002"/>
+  <testcase name="testTopologicalSort()" classname="pa10.GraphTest" time="0.003"/>
+  <testcase name="testSelfLoop()" classname="pa10.GraphTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
